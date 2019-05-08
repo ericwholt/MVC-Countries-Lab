@@ -1,0 +1,7 @@
+C:\Users\fatmo\source\repos\MVC-Countries-Lab\MVC-Countries-Lab\bin\Debug\MVC-Countries-Lab.exe.config
+C:\Users\fatmo\source\repos\MVC-Countries-Lab\MVC-Countries-Lab\bin\Debug\MVC-Countries-Lab.exe
+C:\Users\fatmo\source\repos\MVC-Countries-Lab\MVC-Countries-Lab\bin\Debug\MVC-Countries-Lab.pdb
+C:\Users\fatmo\source\repos\MVC-Countries-Lab\MVC-Countries-Lab\obj\Debug\MVC-Countries-Lab.csprojAssemblyReference.cache
+C:\Users\fatmo\source\repos\MVC-Countries-Lab\MVC-Countries-Lab\obj\Debug\MVC-Countries-Lab.csproj.CoreCompileInputs.cache
+C:\Users\fatmo\source\repos\MVC-Countries-Lab\MVC-Countries-Lab\obj\Debug\MVC-Countries-Lab.exe
+C:\Users\fatmo\source\repos\MVC-Countries-Lab\MVC-Countries-Lab\obj\Debug\MVC-Countries-Lab.pdb
